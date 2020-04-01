@@ -1,0 +1,55 @@
+/* Sideabr Colors*/
+.sidebar{
+    background-color: #1e1e2d;
+}
+.sidebar-brand{
+    background-color: #1a1a27;
+}
+#sidemenu-link{
+    color:#9c9cbf;
+}
+
+.menu__link,.menu__sublink{
+    color:#b7b8c2;
+}
+
+.sublink__icon:before {
+    background: #5f617e;
+}
+
+.menu__sublink:hover .sublink__icon:before {
+    background: #5f617e;
+}
+
+.dropdown-menu li.active .sublink__icon:before {
+    background: #757efe;
+}
+
+
+.menu__link:hover,.menu__sublink:hover{
+    color:#9fa0a7;
+}
+
+.menu__title{
+    background: #242434;
+}
+.menu__link.active,.dropdown.menu-open a.menu__link{
+    background: #db1430;
+    color: #f4f4f4;
+}
+.dropdown-menu li.active{
+background-color: #1b1b28;
+}
+
+.dropdown-menu li.active{
+    background-color: #1b1b28;
+}
+
+
+
+
+.dropdown.show .dropdown-menu{
+    display: block;
+
+}
+/* End Sideabr Colors*/
